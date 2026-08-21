@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Tile's</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 20 Aug 2026 19:47:44 -0600</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/OfffWhiteDesign/Tile/releases/download/prod/Tile.s.dmg" length="5844330" type="application/octet-stream" sparkle:edSignature="rMjjSfOdhLRAwlJtYQuUvlDRzD2fc1TUzhJqj0iff/OvZbmv56Hm/TovZzuKCPhOCG6vkH07iiywz1ZnmTJuAQ=="/>
+        </item>
+    </channel>
+</rss>
