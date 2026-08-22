@@ -4,11 +4,11 @@
         <title>Tile's</title>
         <item>
             <title>1.0.1</title>
-            <pubDate>Fri, 21 Aug 2026 21:33:50 -0600</pubDate>
-            <sparkle:version>1.0</sparkle:version>
+            <pubDate>Fri, 21 Aug 2026 21:55:05 -0600</pubDate>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/OfffWhiteDesign/Tile/releases/download/prodV1.0.1/Tile.s.dmg" length="5813850" type="application/octet-stream" sparkle:edSignature="zqmCua0aNMuAKGwGRmy63trBdtw/tU0SXGhREodb+gR+EkGfaYJxaFTDFqO+FRQM7LWgYKNqrBatWP/c1ukpBA=="/>
+            <enclosure url="https://github.com/OfffWhiteDesign/Tile/releases/download/prodV1.0.1/Tile.s.dmg" length="5814443" type="application/octet-stream" sparkle:edSignature="rsdOPEKW+2TGZp5PUT0uYfTb/zotw1Er3MRT+xvul/bvgKkblIJwKRLf+pOc4hfOaFcYFO8Z4OwwdRBq8H15CQ=="/>
         </item>
     </channel>
 </rss>
